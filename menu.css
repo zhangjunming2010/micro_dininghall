@@ -9,11 +9,11 @@
 
 /*顶部titlebar*/
 .x-panel-top .x-titlebar {
-	background-color: ;
+	background-color: #ff3838;
 }
 
 .x-cards {
-	padding: 0;
+	padding: 0px;
 }
 
 /*左右模块*/
@@ -28,7 +28,7 @@
 }
 
 .tb-box>.col:first-child {
-	padding-right: 10px;
+	padding-right: 5px;
 }
 
 /*一级分类*/
@@ -54,9 +54,10 @@
 
 /*三级分类列表*/
 .tb-listBox {
+	margin-top: 1px;
 	padding-left: 0px;
 	padding-right: 0px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
 
 .tb-listBox div {
@@ -65,5 +66,5 @@
 
 .tb-listBox p {
 	font-size: 12px;
-	margin-top: 5px;
+	margin-top: 0px;
 }
