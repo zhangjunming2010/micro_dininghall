@@ -17,22 +17,22 @@
        <span xid="span31" style="font-weight:bold;font-size:18px;">10号</span></div> </div> </li> </ul> </div><li xid="li15" class="x-min-height list-group-item" componentname="li(html)" id="undefined_li3">
    <div component="$UI/system/components/justep/row/row" class="x-row" xid="row15" bind-click="row15Click">
     <div class="x-col x-col-fixed x-col-center" xid="col33" style="width:auto;">
-     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button15" icon="linear linear-bug" style="padding-left:10px;color:#000000;font-size:18px;">
+     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button15" icon="linear linear-bug" style="padding-left:10px;font-size:18px;color:#800000;">
       <i xid="i17" class="linear linear-bug"></i>
       <span xid="span34" style="font-weight:bold;">大厅</span></a> </div> 
     <div class="x-col x-col-center" xid="col34">
-     <span xid="span33" style="font-weight:bold;font-size:18px;">点选菜品</span></div> 
+     <span xid="span33" style="font-weight:bold;font-size:18px;color:#800000;">点选菜品</span></div> 
     <div class="x-col x-col-fixed x-col-center" xid="col39" style="width:auto;">
      <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button19" icon="icon-chevron-right" style="padding-left:10px;color:#000000;">
       <i xid="i19" class="icon-chevron-right"></i>
       <span xid="span36" style="font-weight:bold;">大厅</span></a> </div> </div> </li><li xid="li14" class="x-min-height list-group-item" componentname="li(html)" id="undefined_li3">
    <div component="$UI/system/components/justep/row/row" class="x-row" xid="row17">
     <div class="x-col x-col-fixed x-col-center" xid="col32" style="width:auto;">
-     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button14" icon="linear linear-chevronup" style="padding-left:10px;color:#000000;font-size:18px;">
+     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button14" icon="linear linear-chevronup" style="padding-left:10px;font-size:18px;color:#008080;">
       <i xid="i18" class="linear linear-chevronup"></i>
       <span xid="span37" style="font-weight:bold;">大厅</span></a> </div> 
     <div class="x-col x-col-center" xid="col31">
-     <span xid="span38" style="font-weight:bold;font-size:18px;">订单</span></div> 
+     <span xid="span38" style="font-weight:bold;font-size:18px;color:#008080;">订单</span></div> 
     <div class="x-col x-col-fixed x-col-center" xid="col38" style="width:auto;">
      <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button16" icon="icon-chevron-right" style="padding-left:10px;color:#000000;">
       <i xid="i20" class="icon-chevron-right"></i>
@@ -40,11 +40,11 @@
    <ul class="x-list-template x-min-height list-group" xid="listTemplateUl4" componentname="$UI/system/components/justep/list/list#listTemplateUl" id="undefined_listTemplateUl2"></ul></div><li xid="li16" class="x-min-height list-group-item" componentname="li(html)" id="undefined_li3">
    <div component="$UI/system/components/justep/row/row" class="x-row" xid="row14">
     <div class="x-col x-col-fixed x-col-center" xid="col41" style="width:auto;">
-     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button17" icon="linear linear-exit" style="padding-left:10px;color:#000000;font-size:18px;">
+     <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button17" icon="linear linear-exit" style="padding-left:10px;font-size:18px;color:#FF6600;">
       <i xid="i14" class="linear linear-exit"></i>
       <span xid="span27" style="font-weight:bold;">大厅</span></a> </div> 
     <div class="x-col x-col-center" xid="col42">
-     <span xid="span28" style="font-weight:bold;font-size:18px;">会员卡</span></div> 
+     <span xid="span28" style="font-weight:bold;font-size:18px;color:#FF6600;">会员卡</span></div> 
     <div class="x-col x-col-fixed x-col-center" xid="col40" style="width:auto;">
      <a component="$UI/system/components/justep/button/button" class="btn btn-link btn-only-icon" label=" 大厅" xid="button18" icon="icon-chevron-right" style="padding-left:10px;color:#000000;">
       <i xid="i15" class="icon-chevron-right"></i>

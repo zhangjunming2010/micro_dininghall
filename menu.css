@@ -1,15 +1,15 @@
 .text-black {
 	color: #333;
 }
-
-.radius {
+/*
+.div-radius {
 	background-color: #ff3838;
 	border-radius: 50%;
 	border-width: 0;
-	width: 22px;
-	height: 22px;
+	width: 20px;
+	height: 20px;
 }
-
+*/
 .tb-nopadding {
 	padding-left: 0;
 	padding-right: 0;
